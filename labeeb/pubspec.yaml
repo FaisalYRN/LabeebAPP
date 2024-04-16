@@ -11,8 +11,8 @@ dependencies:
   flutter:
     sdk: flutter
   camera:
-  tflite_flutter_helper:
-  tflite:
+  tflite_flutter: ^0.9.5
+  tflite_flutter_helper: ^0.2.0
 
 dev_dependencies:
   flutter_test:
@@ -27,4 +27,4 @@ flutter:
   uses-material-design: true
 
 assets:
-  -assets/
+  - assets/
